@@ -7,5 +7,7 @@ En este curso vemos de todo:
 * El flujo de trabajo en GitHub.
 * El verdadero amor por las buenas prácticas.
 * Creado por el increíble Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades.
 
 **Este readme.md es un ejemplo para el curso.
